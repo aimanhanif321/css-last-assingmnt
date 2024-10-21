@@ -876,9 +876,10 @@ input::placeholder{
   color: white;
   padding: 70px;
   height: 450px;
+  padding-left: 170px;
 }
 .first{
-  width: 400px;
+  width:300px;
 }
 .first img {
   width: 200px;
@@ -900,7 +901,7 @@ input::placeholder{
 }
 
 .second, .third, .fourth {
-  width: 300px;
+  width: 290px;
   text-align: center;
 }
 
@@ -912,11 +913,11 @@ input::placeholder{
   margin-left: 43px;
   font-weight: bold;
 }
-.second ul li a,
+/* .second ul li a,
  .third ul li a, 
- .fourth ul li a{
-  margin-right: 100px;
- } 
+ .fourth ul li a{ */
+  /* margin-right: 100px; */
+ /* }  */
 
 .second ul, .third ul {
   list-style: none;
@@ -946,11 +947,11 @@ input::placeholder{
 
  .third, .fourth {
   border-left: 1px solid #bbda83;
-  padding-left: 40px;
+  padding-left: 10px;
 }
 
 .second {
-  padding-right: 20px;
+  padding-right: 10px;
 }
 
 .third {
